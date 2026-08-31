@@ -1,0 +1,12 @@
+{
+  "name": "ttb-label-verifier",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Standalone proof-of-concept for TTB alcohol label verification",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "start": "python3 -m http.server 3000",
+    "test": "node tests.js"
+  },
+  "license": "MIT"
+}
